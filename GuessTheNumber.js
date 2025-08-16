@@ -1,5 +1,5 @@
 /*Write  Javascript program to genrate a random number and store it in a variable.
-The program then takes an input form the users to tell them wheather the guess number was currrect,
+The program then takes an input form the users to tell them wheather the guess number was correct,
 greater or lesser then original number, 
 The program is expected to teriminate once the number is Gussed
 Number should be between 1 - 100;
@@ -24,3 +24,4 @@ while(inp!=a){
      console.log("Your Number Is Smaller than Actual Number.😒😒")
 }
 }
+
